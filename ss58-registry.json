@@ -696,12 +696,30 @@
     },
     {
       "prefix": 2207,
-			"network": "bholdus",
-			"displayName": "BHoldus Network",
-			"symbols": ["BHO"],
-			"decimals": [18],
-			"standardAccount": "*25519",
-			"website": "https://bholdus.com"
+      "network": "ulas",
+      "displayName": "Bholdus Ulas Network",
+      "symbols": ["BHO"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://bholdus.com"
+    },
+    {
+      "prefix": 2208,
+      "network": "cygnus",
+      "displayName": "Bholdus Cygnus Network",
+      "symbols": ["BHOT"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://bholdus.com"
+    },
+    {
+      "prefix": 2209,
+      "network": "phoenix",
+      "displayName": "Bholdus Phoenix Network",
+      "symbols": ["PHO"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://bholdus.com"
     }
   ]
 }
