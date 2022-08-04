@@ -180,7 +180,7 @@
       "decimals": [9, 9],
       "standardAccount": "*25519",
       "website": "https://darwinia.network/"
-    },    
+    },
     {
       "prefix": 20,
       "network": "stafi",
@@ -990,6 +990,33 @@
       "decimals": [12],
       "standardAccount": "*25519",
       "website": "https://nftmart.io"
+    },
+    {
+      "prefix": 2207,
+      "network": "ulas",
+      "displayName": "BHO Ulas Network",
+      "symbols": ["BHO"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://bho.network"
+    },
+    {
+      "prefix": 2208,
+      "network": "cygnus",
+      "displayName": "BHO Cygnus Network",
+      "symbols": ["BHOT"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://bho.network"
+    },
+    {
+      "prefix": 2209,
+      "network": "phoenix",
+      "displayName": "BHO Phoenix Network",
+      "symbols": ["PHO"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://bho.network"
     }
   ]
 }
